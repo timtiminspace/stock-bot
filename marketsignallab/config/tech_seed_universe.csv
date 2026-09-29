@@ -1,0 +1,45 @@
+ticker,company,theme,classification
+NVDA,Nvidia,semiconductor_ai,compounder
+AMD,Advanced Micro Devices,semiconductor_ai,compounder
+AVGO,Broadcom,semiconductor_ai,compounder
+MRVL,Marvell,semiconductor_ai,compounder
+MU,Micron,semiconductor_memory,recovery_candidate
+ARM,Arm Holdings,semiconductor_design,compounder
+TSM,Taiwan Semiconductor,semiconductor_foundry,compounder
+ASML,ASML,semiconductor_equipment,compounder
+AMAT,Applied Materials,semiconductor_equipment,compounder
+LRCX,Lam Research,semiconductor_equipment,compounder
+KLAC,KLA,semiconductor_equipment,compounder
+QCOM,Qualcomm,semiconductor_mobile,compounder
+ON,ON Semiconductor,semiconductor_power,recovery_candidate
+NXPI,NXP Semiconductors,semiconductor_auto,compounder
+MCHP,Microchip Technology,semiconductor_embedded,recovery_candidate
+TXN,Texas Instruments,semiconductor_analog,compounder
+INTC,Intel,semiconductor_turnaround,recovery_candidate
+PANW,Palo Alto Networks,cybersecurity,compounder
+FTNT,Fortinet,cybersecurity,compounder
+CRWD,CrowdStrike,cybersecurity,compounder
+ZS,Zscaler,cybersecurity,recovery_candidate
+S,SentinelOne,cybersecurity,recovery_candidate
+OKTA,Okta,identity_security,recovery_candidate
+NET,Cloudflare,edge_security,recovery_candidate
+TENB,Tenable,vulnerability_management,recovery_candidate
+VRNS,Varonis,data_security,recovery_candidate
+RPD,Rapid7,security_analytics,recovery_candidate
+CHKP,Check Point,cybersecurity,compounder
+PLTR,Palantir,ai_software,compounder
+ORCL,Oracle,cloud_ai,compounder
+SNOW,Snowflake,data_ai,recovery_candidate
+DDOG,Datadog,observability_ai,recovery_candidate
+MDB,MongoDB,data_platform,recovery_candidate
+ANET,Arista Networks,data_center_networking,compounder
+SMCI,Super Micro Computer,ai_servers,recovery_candidate
+DELL,Dell,ai_servers_pc_hardware,compounder
+HPE,Hewlett Packard Enterprise,servers_networking,compounder
+HPQ,HP,pc_hardware,recovery_candidate
+LOGI,Logitech,pc_peripherals,compounder
+CRSR,Corsair,gaming_pc_hardware,recovery_candidate
+IONQ,IonQ,quantum,recovery_candidate
+RGTI,Rigetti,quantum,recovery_candidate
+QBTS,D-Wave Quantum,quantum,recovery_candidate
+QUBT,Quantum Computing Inc,quantum_speculative,recovery_candidate

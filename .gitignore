@@ -1,1 +1,22 @@
-.venv
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated market data
+/data/
+/marketsignallab/data/
+
+# Local OS files
+.DS_Store

@@ -1,0 +1,45 @@
+ticker,company_name,primary_category,secondary_categories,confidence,evidence_source,source_tags,valid_from,valid_to,position_classification
+AMAT,Applied Materials,semiconductors,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+AMD,Advanced Micro Devices,ai_software,semiconductors,0.64,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+ANET,Arista Networks,networking,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+ARM,Arm Holdings,semiconductors,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+ASML,ASML,semiconductors,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+AVGO,Broadcom,ai_software,semiconductors,0.64,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+CHKP,Check Point,cybersecurity,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+CRSR,Corsair,consumer_hardware,,0.98,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+CRWD,CrowdStrike,cybersecurity,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+DDOG,Datadog,ai_software,cloud_infrastructure,0.98,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+DELL,Dell,ai_infrastructure,ai_software|consumer_hardware|enterprise_hardware,0.98,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+FTNT,Fortinet,cybersecurity,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+HPE,Hewlett Packard Enterprise,enterprise_hardware,networking,0.64,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+HPQ,HP,consumer_hardware,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+INTC,Intel,semiconductors,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+IONQ,IonQ,quantum_computing,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+KLAC,KLA,semiconductors,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+LOGI,Logitech,consumer_hardware,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+LRCX,Lam Research,semiconductors,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+MCHP,Microchip Technology,semiconductors,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+MDB,MongoDB,data_analytics,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+MRVL,Marvell,ai_software,semiconductors,0.64,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+MU,Micron,semiconductors,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+NET,Cloudflare,cybersecurity,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+NVDA,Nvidia,ai_software,semiconductors,0.64,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+NXPI,NXP Semiconductors,semiconductors,,0.86,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+OKTA,Okta,cybersecurity,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+ON,ON Semiconductor,semiconductors,,0.8,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+ORCL,Oracle,ai_software,cloud_infrastructure,0.98,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+PANW,Palo Alto Networks,cybersecurity,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+PLTR,Palantir,ai_software,,0.98,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+QBTS,D-Wave Quantum,quantum_computing,,0.8,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+QCOM,Qualcomm,semiconductors,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+QUBT,Quantum Computing Inc,quantum_computing,,0.86,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+RGTI,Rigetti,quantum_computing,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+RPD,Rapid7,cybersecurity,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+S,SentinelOne,cybersecurity,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+SMCI,Super Micro Computer,ai_infrastructure,ai_software|enterprise_hardware,0.98,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+SNOW,Snowflake,ai_software,,0.98,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+TENB,Tenable,cybersecurity,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+TSM,Taiwan Semiconductor,semiconductors,,0.98,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+TXN,Texas Instruments,semiconductors,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,compounder
+VRNS,Varonis,cybersecurity,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
+ZS,Zscaler,cybersecurity,,0.74,approximate_seed_universe,manual:tech_seed_universe,2023-01-03,,recovery_candidate
